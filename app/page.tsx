@@ -14,174 +14,232 @@ export default function Home() {
       </p>
       <div className="flex flex-col gap-4">
         <Image
-          src="https://femalegaze.pages.dev/photo100.jpg"
+          src="https://femalegaze.pages.dev/100.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo200.jpg"
+          src="https://femalegaze.pages.dev/200.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo300.jpg"
+          src="https://femalegaze.pages.dev/300.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo400.jpg"
+          src="https://femalegaze.pages.dev/400.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo500.jpg"
+          src="https://femalegaze.pages.dev/500.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo600.jpg"
+          src="https://femalegaze.pages.dev/600.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo700.jpg"
+          src="https://femalegaze.pages.dev/700.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo800.jpg"
+          src="https://femalegaze.pages.dev/800.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo900.jpg"
+          src="https://femalegaze.pages.dev/900.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1000.jpg"
+          src="https://femalegaze.pages.dev/1000.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1100.jpg"
+          src="https://femalegaze.pages.dev/1100.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1200.jpg"
+          src="https://femalegaze.pages.dev/1200.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1300.jpg"
+          src="https://femalegaze.pages.dev/1300.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1400.jpg"
+          src="https://femalegaze.pages.dev/1400.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1500.jpg"
+          src="https://femalegaze.pages.dev/1500.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1600.jpg"
+          src="https://femalegaze.pages.dev/1600.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1700.jpg"
+          src="https://femalegaze.pages.dev/1700.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1800.jpg"
+          src="https://femalegaze.pages.dev/1800.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo1900.jpg"
+          src="https://femalegaze.pages.dev/1900.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2000.jpg"
+          src="https://femalegaze.pages.dev/2000.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2100.jpg"
+          src="https://femalegaze.pages.dev/2100.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2200.jpg"
+          src="https://femalegaze.pages.dev/2200.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2300.jpg"
+          src="https://femalegaze.pages.dev/2300.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2400.jpg"
+          src="https://femalegaze.pages.dev/2400.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2500.jpg"
+          src="https://femalegaze.pages.dev/2500.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2600.jpg"
+          src="https://femalegaze.pages.dev/2600.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2700.jpg"
+          src="https://femalegaze.pages.dev/2700.jpg"
           alt=""
           width="640"
           height="640"
         />
         <Image
-          src="https://femalegaze.pages.dev/photo2800.jpg"
+          src="https://femalegaze.pages.dev/2800.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/2900.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3000.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3100.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3200.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3300.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3400.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3500.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3600.jpg"
+          alt=""
+          width="640"
+          height="640"
+        />
+        <Image
+          src="https://femalegaze.pages.dev/3700.jpg"
           alt=""
           width="640"
           height="640"
         />
       </div>
+      <p className="my-16 font-extralight italic">
+        <q>Art can never exist without naked beauty displayed.</q> – William
+        Blake
+      </p>
     </main>
   );
 }
