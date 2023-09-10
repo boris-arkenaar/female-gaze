@@ -9,9 +9,6 @@ export default function Home() {
       <h2 className="mb-4 text-2xl font-medium uppercase text-center">
         Portfolio
       </h2>
-      <p className="mb-8 text-sm font-light text-center">
-        In this gallery you can see a selection of my work. I hope you'll enjoy.
-      </p>
       <div className="flex flex-col gap-4">
         <Image
           src="https://femalegaze.pages.dev/100.jpg"
@@ -236,10 +233,6 @@ export default function Home() {
           height="640"
         />
       </div>
-      <p className="my-16 font-extralight italic">
-        <q>Art can never exist without naked beauty displayed.</q> – William
-        Blake
-      </p>
     </main>
   );
 }
