@@ -1,14 +1,21 @@
 import Image from "next/image";
 import { IconBrandInstagram, IconMail } from "@tabler/icons-react";
+import { Dancing_Script } from "next/font/google";
+import { Playfair } from "next/font/google";
 
 import styles from "./page.module.css";
+
+const dancingScript = Dancing_Script({ subsets: ["latin"] });
+const playfair = Playfair({ subsets: ["latin"] });
 
 export default function Home() {
   return (
     <>
       <main className={styles.container}>
         <div className={styles.inner}>
-          <h1 className={styles.header}>Female&nbsp;Gaze by&nbsp;Yana</h1>
+          <h1 className={`${styles.header} ${dancingScript.className}`}>
+            Female&nbsp;Gaze by&nbsp;Yana
+          </h1>
           <nav className={styles.nav}>
             <div className={styles.contact}>
               <a href="https://instagram.com/ecstatic.yogini" title="Instagram">
@@ -22,7 +29,9 @@ export default function Home() {
               About me
             </a>
           </nav>
-          <h2 className={styles.subHeader}>My&nbsp;Model Portfolio</h2>
+          <h2 className={`${styles.subHeader} ${playfair.className}`}>
+            My&nbsp;Model Portfolio
+          </h2>
           <div className={styles.imageContainer}>
             <Image
               src="https://femalegaze.pages.dev/100.jpg"
@@ -249,7 +258,7 @@ export default function Home() {
           </div>
           <article className={styles.article}>
             <a id="about" />
-            <h2>About me</h2>
+            <h2 className={playfair.className}>About me</h2>
             <p>
               Hey there! I'm Yana.
               <br />
