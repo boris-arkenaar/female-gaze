@@ -292,7 +292,7 @@ export default function Home() {
           </article>
         </div>
         <footer className={styles.footer}>
-          <p>© 2018 – 2023 Yana</p>
+          <p>© 2019 – 2023 Yana</p>
           <p>
             Flower background image by{" "}
             <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-simple-flower-outline_25261795.htm#page=3&query=lily%20flower&position=42&from_view=keyword&track=ais">
