@@ -277,8 +277,7 @@ export default function Home() {
               <strong>I DO NOT</strong> pose for:
               <br />
               Pornography, erotic, met art, open legs. I do not shoot concepts
-              that are oversexualized or poses that have vulgar or lewd nature
-              (such as sucking a finger, underskirt etc).
+              that are oversexualized or poses that have vulgar or lewd nature.
               <br />
               I reserve the right to refuse to execute poses that I find
               inappropriate or do not comply with my personal limits and terms.
