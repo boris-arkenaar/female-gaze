@@ -52,12 +52,6 @@ export default function Home() {
               height="958"
             />
             <Image
-              src="https://femalegaze.pages.dev/400.jpg"
-              alt=""
-              width="640"
-              height="960"
-            />
-            <Image
               src="https://femalegaze.pages.dev/500.jpg"
               alt=""
               width="640"
@@ -70,28 +64,10 @@ export default function Home() {
               height="960"
             />
             <Image
-              src="https://femalegaze.pages.dev/700.jpg"
-              alt=""
-              width="640"
-              height="884"
-            />
-            <Image
               src="https://femalegaze.pages.dev/800.jpg"
               alt=""
               width="640"
               height="765"
-            />
-            <Image
-              src="https://femalegaze.pages.dev/900.jpg"
-              alt=""
-              width="640"
-              height="759"
-            />
-            <Image
-              src="https://femalegaze.pages.dev/1000.jpg"
-              alt=""
-              width="640"
-              height="959"
             />
             <Image
               src="https://femalegaze.pages.dev/1100.jpg"
@@ -118,12 +94,6 @@ export default function Home() {
               height="511"
             />
             <Image
-              src="https://femalegaze.pages.dev/1500.jpg"
-              alt=""
-              width="640"
-              height="426"
-            />
-            <Image
               src="https://femalegaze.pages.dev/1600.jpg"
               alt=""
               width="640"
@@ -148,12 +118,6 @@ export default function Home() {
               height="400"
             />
             <Image
-              src="https://femalegaze.pages.dev/2000.jpg"
-              alt=""
-              width="640"
-              height="426"
-            />
-            <Image
               src="https://femalegaze.pages.dev/2100.jpg"
               alt=""
               width="640"
@@ -164,12 +128,6 @@ export default function Home() {
               alt=""
               width="640"
               height="960"
-            />
-            <Image
-              src="https://femalegaze.pages.dev/2300.jpg"
-              alt=""
-              width="640"
-              height="426"
             />
             <Image
               src="https://femalegaze.pages.dev/2400.jpg"
@@ -208,18 +166,6 @@ export default function Home() {
               height="426"
             />
             <Image
-              src="https://femalegaze.pages.dev/3000.jpg"
-              alt=""
-              width="640"
-              height="961"
-            />
-            <Image
-              src="https://femalegaze.pages.dev/3100.jpg"
-              alt=""
-              width="640"
-              height="425"
-            />
-            <Image
               src="https://femalegaze.pages.dev/3200.jpg"
               alt=""
               width="640"
@@ -230,12 +176,6 @@ export default function Home() {
               alt=""
               width="640"
               height="960"
-            />
-            <Image
-              src="https://femalegaze.pages.dev/3400.jpg"
-              alt=""
-              width="640"
-              height="808"
             />
             <Image
               src="https://femalegaze.pages.dev/3500.jpg"
